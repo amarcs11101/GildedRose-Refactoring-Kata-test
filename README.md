@@ -20,5 +20,5 @@ python texttest_fixture.py 10
 ##### My code changes ####
 1) gilded_rose.py inside update_quality function from line no. 11-20
 2) items_business_logic.py entire file . 
-#########  End ###########
+
  
